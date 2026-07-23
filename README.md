@@ -2,6 +2,8 @@
 
 An advanced multi-physics simulation and techno-economic framework for a 1.2 MW Cell-to-Chassis (CTC) battery architecture.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21515702.svg)](https://doi.org/10.5281/zenodo.21515702)
+
 ## Core Features
 - **Thermal Isolation:** 99.1% conductive thermal choking via graded AlN sleeves and Zirconia radiation shields.
 - **Structural Mechanics:** 3D Micro-Dovetail interlocking Cu-Ni skin.
